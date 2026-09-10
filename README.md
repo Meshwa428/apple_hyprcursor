@@ -1,3 +1,5 @@
+# This is my custom FORK to solve a slight issue with the cursor path
+
 # Apple Hyprcursor
 
 Open source and scalable Hyprcursor theme based on macOS.
@@ -22,7 +24,7 @@ _Named 'macOS-hypr_white' in the files._
 
 ## How to get it
 
-Download the latest release from the [Release Page](https://github.com/6ooker/apple_hyprcursor/releases).
+Download the latest release from the [Release Page](https://github.com/Meshwa428/apple_hyprcursor/releases).
 
 ### Packages
 
@@ -77,7 +79,7 @@ For more info see the [Hyprland wiki](https://wiki.hypr.land/Hypr-Ecosystem/hypr
 ### Quick Start
 
 1. Get [dependencies](#prerequisites)
-2. `git clone https://github.com/6ooker/apple_hyprcursor`
+2. `git clone https://github.com/Meshwa428/apple_hyprcursor`
 3. `cd apple_hyprcursor`
 4. `./build.sh`
 5. See [installation](#using-the-cursor-theme)

@@ -1,4 +1,4 @@
-# This is my custom FORK to solve a slight issue with the cursor path
+# NOTE:  This is my personal FORK to solve a slight issue with the cursor path
 
 # Apple Hyprcursor
 
